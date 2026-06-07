@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0283-move-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/1572-matrix-diagonal-sum) |
@@ -43,5 +44,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
