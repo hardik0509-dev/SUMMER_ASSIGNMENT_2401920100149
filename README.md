@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0643-maximum-average-subarray-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0643-maximum-average-subarray-i) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
