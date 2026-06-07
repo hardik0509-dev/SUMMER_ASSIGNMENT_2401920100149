@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0566-reshape-the-matrix) |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
