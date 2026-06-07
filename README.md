@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0566-reshape-the-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
