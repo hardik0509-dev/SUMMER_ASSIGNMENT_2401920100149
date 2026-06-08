@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -72,4 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
