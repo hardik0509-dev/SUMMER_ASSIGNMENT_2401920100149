@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
 | ------- |
