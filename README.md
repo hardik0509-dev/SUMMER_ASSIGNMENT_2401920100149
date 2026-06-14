@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0567-permutation-in-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0557-reverse-words-in-a-string-iii) |
