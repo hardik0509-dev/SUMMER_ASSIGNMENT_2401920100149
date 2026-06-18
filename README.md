@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0566-reshape-the-matrix) |
@@ -136,10 +137,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
