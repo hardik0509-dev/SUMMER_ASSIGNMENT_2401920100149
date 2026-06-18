@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0054-spiral-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0283-move-zeroes) |
@@ -137,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
