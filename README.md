@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0150-evaluate-reverse-polish-notation) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hardik0509-dev/SUMMER_ASSIGNMENT_2401920100149/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
